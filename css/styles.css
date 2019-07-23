@@ -3,9 +3,13 @@ body {
   width: 30em;
 }
 
-h1, h2 {
+h1, h2, a {
   font-weight: 800;
   font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  text-decoration: none;
 }
 
 h2 {
